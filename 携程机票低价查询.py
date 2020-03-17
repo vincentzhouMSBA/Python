@@ -1,3 +1,6 @@
+#通过爬取携程网页上上海飞往深圳的近期价格，通过聚类的方式对所有价格进行聚类分析，从而找出“超低”价格实现不间断检测，并将结果通过IFTTT网站发送到用户手机，实现App功能
+
+
 import sys
 import pandas as pd
 import numpy as np
